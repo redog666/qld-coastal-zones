@@ -4,4 +4,4 @@ The aim of this project is to make available .gpx files that are usable as a lay
 Draw allows layers to be projected over charts and can be turned on/off with the click of a mouse.
 These .gpx files have been created from coordinates provide by the QLD Government.
 The target areas are the Great Barrier Reef Marine Park (GBRMP), Great Sandy Marine Park (GSMP) and Moreton Bay Marine Park (MBMP).
-The Activities Guide provides information of allowable acticities for each zone.
+The Activities Guide provides information of allowable activities for each zone.
