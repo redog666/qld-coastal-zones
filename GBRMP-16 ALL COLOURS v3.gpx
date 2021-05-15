@@ -159,7 +159,7 @@
       <sym>triangle</sym>
       <opencpn:guid>37783bdd-0eaa-4b78-96c6-919b63a0d35a</opencpn:guid>
       <opencpn:viz>0</opencpn:viz>
-      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>added GBRMP-16-1048
       <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
       <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
     </opencpn:ODPoint>
