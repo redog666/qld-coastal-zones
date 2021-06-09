@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<OCPNDraw version="0.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opencpn="http://www.opencpn.org">
+  <opencpn:path>
+    <opencpn:type>Boundary</opencpn:type>
+    <name>Moreton Bay Marine Park</name>
+    <opencpn:guid>6c583321-8997-42cb-9236-a3622db301d1</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:active>1</opencpn:active>
+    <opencpn:style active_colour="rgb(255, 0, 0)" active_fillcolour="rgb(255, 0, 0)" inactive_colour="rgb(211, 211, 211)" inactive_fillcolour="rgb(211, 211, 211)" width="5" style="100" fill_transparency="255" inclusion_boundary_size="15" />
+    <opencpn:boundary_type>None</opencpn:boundary_type>
+    <opencpn:boundary_show_point_icons>0</opencpn:boundary_show_point_icons>
+    <opencpn:ODPoint lat="-26.802011738" lon="153.150879428">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:46:22Z</time>
+      <name>001</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>49cc70e8-9f11-419a-bb43-bc26230cd775</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.802594801" lon="153.151820223">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:46:27Z</time>
+      <name>002</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>3c799d62-84a0-4f9a-9a9e-2c7c46f6ee73</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.930070572" lon="153.510793114">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:47:42Z</time>
+      <name>003</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>3c320ba4-5218-4a4e-9263-07490e70e254</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.934066602" lon="153.519456083">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:57:07Z</time>
+      <name>NM003</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>6ae6a31a-7339-46d6-91b4-d7414602ee4a</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.939942859" lon="153.527893061">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:56:43Z</time>
+      <name>NM002</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>1502c085-fe8f-4b39-b32e-4bca50f8eb05</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.949444959" lon="153.536932681">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:56:27Z</time>
+      <name>NM001</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>622c0526-c3b4-45d1-8ce9-738020578230</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.959181263" lon="153.542544779">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:57:16Z</time>
+      <name>NM004</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>0907ff00-8e74-4cec-8fe5-93055bd598fd</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.973654406" lon="153.546074993">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:57:34Z</time>
+      <name>NM005</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>18c8fc89-622c-4577-b526-eb4800dbe971</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.391678846" lon="153.609380131">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:48:05Z</time>
+      <name>004</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>1ffecd8b-8f0b-4298-9919-c56375db575a</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.422668409" lon="153.609633824">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:57:55Z</time>
+      <name>NM006</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>07a56ae8-5ec9-4267-b95d-1da1362604f4</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.932825456" lon="153.489776194">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:48:29Z</time>
+      <name>006</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>25c4cbcc-d4de-4419-8459-c3b40f9ed41c</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.933008972" lon="153.431002750">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:16Z</time>
+      <name>007</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>7c0e21da-f030-4d2b-b042-8779411a86f0</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.933768385" lon="153.427867478">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:20Z</time>
+      <name>008</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>52d50141-8ec2-4f16-a51e-c1ae7f2acf79</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.933631196" lon="153.425753010">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:36Z</time>
+      <name>009</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>1b38bedd-8712-4a0b-85ef-312933d2cbd6</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.932772199" lon="153.423864828">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:37Z</time>
+      <name>010</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>7bd80fa3-49e1-45a6-831f-e9bf03db449f</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.931415218" lon="153.422610737">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:38Z</time>
+      <name>011</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>3c1f400e-ad74-46f4-b09d-d41f706d8f69</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.931477465" lon="153.419158464">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:49:40Z</time>
+      <name>012</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>6ff73edf-5b99-4310-85e9-022735a00ef0</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.893639914" lon="153.403823716">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T20:00:10Z</time>
+      <name>NM007</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>45a72089-696b-4e3e-a1dc-65145967e4ce</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.885771277" lon="153.405200927">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T20:00:31Z</time>
+      <name>NM008</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>489f01a3-3c56-4ed5-a3ca-cbc27960ae68</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.872641119" lon="153.413660939">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T20:00:56Z</time>
+      <name>NM009</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>586739f9-5ec8-4a6c-a1c0-2fe46c253832</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.866336338" lon="153.409037444">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T20:01:16Z</time>
+      <name>NM010</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>736ad838-1b2d-4a01-b579-1c6917b86e8f</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.866858127" lon="153.399888827">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:52:49Z</time>
+      <name>014</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>1d601916-84cb-4b81-b2ce-31273ad5042c</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.873467235" lon="153.397134405">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T20:01:40Z</time>
+      <name>NM011</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>6ba87b4f-3a0a-4bbc-a2a3-a9fa61dd5f7f</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.876410036" lon="153.393618570">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:52:52Z</time>
+      <name>015</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>76b5b7d4-1ae6-4d60-a5c8-a4546b0259cc</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.877311271" lon="153.387594664">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:53:07Z</time>
+      <name>016</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>32fff87e-7874-46df-86d3-19f065c37780</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.876945551" lon="153.385477296">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:53:08Z</time>
+      <name>017</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>5f354f12-1c17-46c7-86df-a05c0298eed8</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.881336766" lon="153.382476943">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:53:09Z</time>
+      <name>018</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>156a3c75-f3fe-490d-a578-f48d4c027e45</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.888727517" lon="153.383313107">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:53:11Z</time>
+      <name>019</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>23bae29a-25b5-4daf-b540-8b0f4d459251</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.878380013" lon="153.241909492">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:54:50Z</time>
+      <name>020</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>047b1901-2f64-408f-afa7-27705a7248dd</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-27.257575348" lon="152.851812900">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:55:02Z</time>
+      <name>021</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>3df37e0e-415f-406b-ba5d-b73200738ca8</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.888663633" lon="152.990441383">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:55:10Z</time>
+      <name>022</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>1eb1aec4-578f-4619-a84b-cf2566e640c4</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+    <opencpn:ODPoint lat="-26.802011738" lon="153.150879428">
+      <opencpn:type>Boundary Point</opencpn:type>
+      <time>2020-05-23T19:46:22Z</time>
+      <name>001</name>
+      <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+      <sym>triangle</sym>
+      <opencpn:guid>49cc70e8-9f11-419a-bb43-bc26230cd775</opencpn:guid>
+      <opencpn:viz>0</opencpn:viz>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+      <opencpn:ODPoint_range_rings visible="false" number="0" step="0.5" units="0" colour="#FF0000" width="2" line_style="100" />
+    </opencpn:ODPoint>
+  </opencpn:path>
+</OCPNDraw>
