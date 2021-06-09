@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<OCPNDraw version="0.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opencpn="http://www.opencpn.org">
+  <opencpn:ODPoint lat="-25.910000000" lon="153.197500000">
+    <opencpn:type>Boundary Point</opencpn:type>
+    <time>2021-05-23T17:15:41Z</time>
+    <name>GSBZ01</name>
+    <opencpn:boundary_type>Exclusion</opencpn:boundary_type>
+    <sym>Triangle</sym>
+    <opencpn:guid>1ce381eb-7716-435f-9006-b5377aa7eeec</opencpn:guid>
+    <opencpn:viz>1</opencpn:viz>
+    <opencpn:viz_name>0</opencpn:viz_name>
+    <opencpn:arrival_radius>0.500</opencpn:arrival_radius>
+    <opencpn:ODPoint_range_rings visible="true" number="1" step="1.5" units="1" colour="#808000" width="2" line_style="100" />
+  </opencpn:ODPoint>
+</OCPNDraw>
